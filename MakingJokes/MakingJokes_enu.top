@@ -1,0 +1,11 @@
+topic: ~MakingJokes()
+language: enu
+
+
+u:(["Hello Nao", "Hello", "Hi", "Hi Nao", "Good morning", "Good afternoon"]) Hello, human
+
+u:(Tell me a joke) Okay. What is a robot's favourite type of music?
+
+u^private:(I don't know) Heavy metal!
+
+u:^private(Very funny) Thank you. You look pretty funny too!

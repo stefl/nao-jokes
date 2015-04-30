@@ -1,0 +1,8 @@
+topic: ~ExampleDialog()
+language: enu
+
+u:(Hello) Hello, human
+
+u:(Tell me a joke) Okay. What is a robot's favourite type of music?
+
+u:(I don't know) Heavy metal!
